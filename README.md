@@ -17,16 +17,16 @@
 
 ## Setup
 
-### 1. clone or Download
+### 1. clone or download
 clone this repository or download the files.
 
-### 2. install Dependencies
+### 2. install dependencies
 run the following command in the project directory:
 ```bash
 npm install discord.js-selfbot-v13
 ```
 
-### 3. add Your Token
+### 3. add your token
 replace the `client.login` line with your actual Discord token.  
 > **warning**: be cautious with your token. do not share it with anyone as it provides full access to your account.
 
@@ -53,7 +53,7 @@ node index.js
 
 ---
 
-## Customization
+## customization
 
 
 ### idle timer
